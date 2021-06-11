@@ -1,2 +1,1 @@
-# react
-React Repo
+#React Repo for african marketplace app
